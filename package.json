@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/mev-transaction/issues"
   },
-  "homepage": "https://github.com/sammic297/mev-transaction#readme"
+  "homepage": "https://github.com/sammic297/mev-transaction#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.6"
+  }
 }
